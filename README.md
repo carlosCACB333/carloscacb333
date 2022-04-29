@@ -1,7 +1,29 @@
 <h1 align="center">Hi 👋 , soy Carlos</h1>
 <h3 align="center">Un apasionado desarrollador full stack de Perú</h3>
-<
-p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carloscacb333" alt="carloscacb333" /></a> </p>
+
+```js
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, ],
+   technologies: {
+      frontEnd: {
+         js: ["React",]
+         css: ["Materialize", "Bootstrap", "Material Design", "Chackra UI"]
+      },
+      backEnd: {
+         java: ["Servlets"],
+         js: ["Node", "Express"],
+         python:["Django","Django Rest Framework"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer","POSTGRESQL"],
+      mobile: ["React Native"],
+      desktop:["java"],
+      dataScience:["Python", "pandas", "numpy", "matplotlib", "seaborn","sklearn",]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm studying Data Science",
+};
+```
 
 - 🌱 Actualmente estoy aprendiendo **Data Science**
 
