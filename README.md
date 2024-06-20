@@ -40,7 +40,7 @@ const aboutMe = {
       "Fiber",
       "Actix",
     ],
-    movile: ["React Native"],
+    mobile: ["React Native"],
     desktop: ["Java", "Python"],
     databases: ["PostgreSQL", "MySQL", "SqlServer", "MongoDB", "DynamoDB"],
     ia: [
